@@ -89,3 +89,5 @@ Notice the relationship between the function `square` and the function `total`.
 * [Object.prototype.constructor](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/constructor)
 * [Wheat and chessboard problem](http://en.wikipedia.org/wiki/Wheat_and_chessboard_problem)
 * [Math.pow](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Math/pow)
+
+<a href='https://learn.co/lessons/oo-grains' data-visibility='hidden'>View this lesson on Learn.co</a>
